@@ -18,15 +18,13 @@ How about a `<blockquote>`?
 
 A list of stuff:
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
+* Sed posuere consectetur est at lobortis
+* Aenean lacinia bibendum nulla sed consectetur
+* Sed posuere consectetur est at lobortis
 
 How about an ordered list of stuff:
 
 1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
-
+2. Aenean lacinia bibendum nulla sed consectetus
 
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
